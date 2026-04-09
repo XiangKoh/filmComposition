@@ -798,14 +798,14 @@ a {
 }
 .cid-vgakzlxERz .mbr-overlay {
   background-color: #000000;
-  opacity: 0.5;
+  opacity: 0.6;
 }
 @media (min-width: 768px) {
   .cid-vgakzlxERz {
     align-items: flex-end;
   }
   .cid-vgakzlxERz .row {
-    justify-content: flex-start;
+    justify-content: center;
   }
   .cid-vgakzlxERz .content-wrap {
     padding: 1rem 3rem;
@@ -851,7 +851,7 @@ a {
   text-align: left;
 }
 .cid-vgakzlxERz .mbr-section-title {
-  color: #ffffff;
+  color: #fb002c;
   text-align: center;
 }
 .cid-vgakzlxERz .mbr-section-subtitle {
